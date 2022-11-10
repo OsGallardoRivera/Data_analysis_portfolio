@@ -1,3 +1,4 @@
+# About
 
 Hello, I’m Oswaldo Gallardo.I have completed my graduation in Physics and a Master in Sciences(Physics).
 My research in science has focused on the study of orbital data around Galactic Centers using Markov Chains in Python lenguage.
